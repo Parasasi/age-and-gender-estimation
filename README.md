@@ -42,6 +42,3 @@ More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/
   <li>Open and run my jupyter notebook</li>
 </ol>
 
-
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
