@@ -42,11 +42,6 @@ More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/
   <li>Open and run my jupyter notebook</li>
 </ol>
 
-# Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
+
 <li>Portfolio:http://kaushikjadhav01.github.io/</li>
 </ul>
